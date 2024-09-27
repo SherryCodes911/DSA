@@ -1,7 +1,7 @@
 
 package Assignments;
 
-public class assignment1 {
+public class assignment1{
     int data;
     assignment1 next;
 
